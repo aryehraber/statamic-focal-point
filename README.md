@@ -1,5 +1,7 @@
 # Focal Point
 
+_This addon can now be replaced with Statamic's core [Focus](https://docs.statamic.com/variables/focus) functionality._
+
 **Use Statamic's Focal Point feature for responsive images.**
 
 ![Focal Point Example](https://user-images.githubusercontent.com/5065331/28575170-6e3fa106-7150-11e7-9d0c-ba37c4d57cfa.gif)
